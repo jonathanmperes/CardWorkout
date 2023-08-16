@@ -65,7 +65,6 @@
                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </buttonConfiguration>
                                 <connections>
-                                    <action selector="rulesButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vc1-RO-Pdh"/>
                                     <segue destination="Bj3-vo-YxZ" kind="presentation" id="CKl-kA-UcC"/>
                                 </connections>
                             </button>
@@ -114,7 +113,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="♠ = Pushup   ♥ = Situp  ♣ = Burpess  ♦ = Jumping Jacks" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZQ7-Wo-6K7">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="♠ = Push-up   ♥ = Sit-up  ♣ = Burpees  ♦ = Jumping Jacks" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZQ7-Wo-6K7">
                                 <rect key="frame" x="96.666666666666686" y="450.33333333333331" width="200" height="175.66666666666669"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="200" id="E3P-nb-tNw"/>
