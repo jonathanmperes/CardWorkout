@@ -13,7 +13,7 @@
 		7024C6C42A82E8B30066120E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7024C6C32A82E8B30066120E /* Assets.xcassets */; };
 		7024C6C72A82E8B30066120E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7024C6C52A82E8B30066120E /* LaunchScreen.storyboard */; };
 		70C11CEC2A83CBBB0078871C /* CardSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70C11CEB2A83CBBB0078871C /* CardSelectionVC.swift */; };
-		70ED72B32A8CFAAD0072CD04 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70ED72B22A8CFAAD0072CD04 /* Card.swift */; };
+		70ED72B32A8CFAAD0072CD04 /* CardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70ED72B22A8CFAAD0072CD04 /* CardDeck.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		7024C6C62A82E8B30066120E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7024C6C82A82E8B30066120E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		70C11CEB2A83CBBB0078871C /* CardSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardSelectionVC.swift; sourceTree = "<group>"; };
-		70ED72B22A8CFAAD0072CD04 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		70ED72B22A8CFAAD0072CD04 /* CardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardDeck.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +61,7 @@
 				7024C6BA2A82E8B00066120E /* AppDelegate.swift */,
 				7024C6BC2A82E8B00066120E /* SceneDelegate.swift */,
 				70C11CEB2A83CBBB0078871C /* CardSelectionVC.swift */,
-				70ED72B22A8CFAAD0072CD04 /* Card.swift */,
+				70ED72B22A8CFAAD0072CD04 /* CardDeck.swift */,
 				7024C6C02A82E8B10066120E /* Main.storyboard */,
 				7024C6C32A82E8B30066120E /* Assets.xcassets */,
 				7024C6C52A82E8B30066120E /* LaunchScreen.storyboard */,
@@ -144,7 +144,7 @@
 				7024C6BB2A82E8B00066120E /* AppDelegate.swift in Sources */,
 				7024C6BD2A82E8B00066120E /* SceneDelegate.swift in Sources */,
 				70C11CEC2A83CBBB0078871C /* CardSelectionVC.swift in Sources */,
-				70ED72B32A8CFAAD0072CD04 /* Card.swift in Sources */,
+				70ED72B32A8CFAAD0072CD04 /* CardDeck.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
